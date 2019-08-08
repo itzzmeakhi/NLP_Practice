@@ -1,0 +1,2 @@
+This is the updated line in the fileThis data was appended
+ This was the new line that was appended
